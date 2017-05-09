@@ -1,0 +1,13 @@
+Package: dmr.regtree
+Type: Package
+Title: A package with example functions from the book Cichosz, P.
+        (2015): Data Mining Algorithms: Explained Using R
+Version: 1.0
+Date: 2014-06-30
+Author: Pawel Cichosz <p.cichosz@elka.pw.edu.pl>
+Maintainer: Pawel Cichosz <p.cichosz@elka.pw.edu.pl>
+Description: A package with example functions from Chapter 9 of the book Cichosz, P. (2015): Data Mining Algorithms: Explained Using R. See Appendix B or http://www.wiley.com/go/data_mining_algorithms for more details.
+License: GPL (>= 2)
+Imports: dmr.util, dmr.stats
+Suggests: dmr.data, dmr.regeval
+Packaged: 2014-10-22 06:49:45 UTC; pcichosz
